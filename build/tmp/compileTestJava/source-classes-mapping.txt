@@ -1,0 +1,10 @@
+ae/maha/app/data/TestData.java
+ ae.maha.app.data.TestData
+ae/maha/app/AppApplicationTests.java
+ ae.maha.app.AppApplicationTests
+ae/maha/app/controller/StockControllerTest.java
+ ae.maha.app.controller.StockControllerTest
+ae/maha/app/controller/AbstractControllerTest.java
+ ae.maha.app.controller.AbstractControllerTest
+ae/maha/app/service/StockServiceTest.java
+ ae.maha.app.service.StockServiceTest
